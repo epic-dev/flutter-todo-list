@@ -1,8 +1,8 @@
 repo_name: epic-dev/flutter-todo-list
-report_id: 0063d7946aa6ed6a62be48338e8e53b4
+report_id: 54cafde5e209ad6a030f40572d0f4495
 repo_type: Public
-timestamp: '2023-11-09T14:58:54+00:00'
-requested_by: pyuruts
+timestamp: '2023-12-14T09:28:19+00:00'
+requested_by: epic-dev
 provider: github
 branch: master
 detected_tools_count: 13
@@ -56,7 +56,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1010/m8jf0po4imu8t5eemjdd.png
-  detection_source_url: android/app/build.gradle
+  detection_source_url: https://github.com/epic-dev/flutter-todo-list/blob/master/android/app/build.gradle
   detection_source: android/app/build.gradle
   last_updated_by: Pavel Yuruts
   last_updated_on: 2020-10-22 21:58:38.000000000 Z
@@ -102,7 +102,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Operating Systems
   image_url: https://img.stackshare.io/service/9586/ZvmtaSXW_400x400.jpg
-  detection_source_url: android/app/build.gradle
+  detection_source_url: https://github.com/epic-dev/flutter-todo-list/blob/master/android/app/build.gradle
   detection_source: android/app/build.gradle
   last_updated_by: Pavel Yuruts
   last_updated_on: 2020-10-22 21:58:38.000000000 Z
@@ -115,7 +115,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: pubspec.lock
+  detection_source_url: https://github.com/epic-dev/flutter-todo-list/blob/master/pubspec.lock
   detection_source: pubspec.yaml
   last_updated_by: Pavel Yuruts
   last_updated_on: 2020-10-22 21:58:38.000000000 Z
@@ -128,7 +128,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: pubspec.lock
+  detection_source_url: https://github.com/epic-dev/flutter-todo-list/blob/master/pubspec.lock
   detection_source: pubspec.yaml
   last_updated_by: Pavel Yuruts
   last_updated_on: 2020-10-22 21:58:38.000000000 Z
@@ -142,7 +142,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: pubspec.lock
+  detection_source_url: https://github.com/epic-dev/flutter-todo-list/blob/master/pubspec.lock
   detection_source: pubspec.yaml
   last_updated_by: Pavel Yuruts
   last_updated_on: 2020-10-22 21:58:38.000000000 Z
