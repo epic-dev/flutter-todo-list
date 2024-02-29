@@ -3,13 +3,13 @@
 ## Tech Stack
 epic-dev/flutter-todo-list is built on the following main stack:
 
-- [Gradle](https://www.gradle.org/) – Java Build Tools
+- [Dart](https://www.dartlang.org/) – Languages
+- [Kotlin](https://kotlinlang.org/) – Languages
 - [Objective-C](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html) – Languages
 - [Swift](https://developer.apple.com/swift/) – Languages
 - [Android SDK](http://developer.android.com) – Frameworks (Full Stack)
-- [Dart](https://www.dartlang.org/) – Languages
-- [Kotlin](https://kotlinlang.org/) – Languages
 - [Flutter](https://flutter.io/) – Cross-Platform Mobile Development
+- [Gradle](https://www.gradle.org/) – Java Build Tools
 - [Android OS](https://www.android.com) – Operating Systems
 
 Full tech stack [here](/techstack.md)
@@ -20,13 +20,13 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 epic-dev/flutter-todo-list is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/975/gradlephant-social-black-bg.png' alt='Gradle'/> [Gradle](https://www.gradle.org/) – Java Build Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/1646/Twitter-02.png' alt='Dart'/> [Dart](https://www.dartlang.org/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/3750/pCfEzr6L.png' alt='Kotlin'/> [Kotlin](https://kotlinlang.org/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1008/xcode.png' alt='Objective-C'/> [Objective-C](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1009/tuHsaI2U.png' alt='Swift'/> [Swift](https://developer.apple.com/swift/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1010/m8jf0po4imu8t5eemjdd.png' alt='Android SDK'/> [Android SDK](http://developer.android.com) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1646/Twitter-02.png' alt='Dart'/> [Dart](https://www.dartlang.org/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/3750/pCfEzr6L.png' alt='Kotlin'/> [Kotlin](https://kotlinlang.org/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/7180/flutter-mark-square-100.png' alt='Flutter'/> [Flutter](https://flutter.io/) – Cross-Platform Mobile Development
+- <img width='25' height='25' src='https://img.stackshare.io/service/975/gradlephant-social-black-bg.png' alt='Gradle'/> [Gradle](https://www.gradle.org/) – Java Build Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/9586/ZvmtaSXW_400x400.jpg' alt='Android OS'/> [Android OS](https://www.android.com) – Operating Systems
 
 Full tech stack [here](/techstack.md)
@@ -38,7 +38,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [epic-dev/flutter-todo-list](https://github.com/epic-dev/flutter-todo-list)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|13<br/>Tools used|01/05/24 <br/>Report generated|
+|13<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
